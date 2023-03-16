@@ -33,6 +33,8 @@ This algorithm involves summing the values in each row of the input array and re
 # Results
 Sample input images: 
 
+![sample_image](https://github.com/Gyoowai/Animation_Character_Image_to_Time-series/blob/master/images/sample.png)
+
 Output:
 - Converting into Time-series by finding first pixel vertically:
 
